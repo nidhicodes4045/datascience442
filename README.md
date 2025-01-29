@@ -5,7 +5,10 @@ Group project repository for CSC 442
 # Dataset Selection:
 
 ## Khush Bawal:
-  https://www.kaggle.com/code/youssefelbadry10/stock-market-forecasting-arima-time-series/notebook
+  * [Primary source Huge Stock Market Dataset](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs/data)
+    * [My Sub Preference Stock Market Forecasting | ARIMA | Time series](https://www.kaggle.com/code/youssefelbadry10/stock-market-forecasting-arima-time-series/notebook)
+  * [Primary Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/data)
+  
   
 ## Nidhi Grover:
 
