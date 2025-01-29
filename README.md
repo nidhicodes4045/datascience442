@@ -2,18 +2,19 @@
 Group project repository for CSC 442
 
 
-Dataset Selection:
+# Dataset Selection:
 
-  Khush Bawal:
+## Khush Bawal:
+  https://www.kaggle.com/code/youssefelbadry10/stock-market-forecasting-arima-time-series/notebook
+  
+## Nidhi Grover:
 
-  Nidhi Grover:
-
-  Malik Wensman:
+## Malik Wensman:
 
   https://corgis-edu.github.io/corgis/csv/food_access/
   
   https://corgis-edu.github.io/corgis/csv/county_demographics/
 
-  Steve Uwa:
+## Steve Uwa:
   
   https://catalog.data.gov/dataset/national-student-loan-data-system-722b0
