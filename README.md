@@ -4,10 +4,10 @@ Group project repository for CSC 442
 
 Dataset Selection:
 
-Khush Bawal:
+  Khush Bawal:
 
-Nidhi Grover:
+  Nidhi Grover:
 
-Malik Wensman:
+  Malik Wensman:
 
-Steve Uwa:
+  Steve Uwa:
