@@ -1,6 +1,9 @@
 # datascience442
 Group project repository for CSC 442
 
+## Link to meeting notes doc :
+
+https://docs.google.com/document/d/1Z-hX6zm836HOYV4O685aHF1d8tsRKX-yDxCnvtY-s7I/edit?usp=sharing
 
 # Dataset Selection:
 
